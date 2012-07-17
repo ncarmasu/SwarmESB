@@ -1,0 +1,14 @@
+{
+    "name":"SwarmESB",
+    "version":"0.0.1",
+    "author":"Sinica Alboaie <sinica.alboaie@trp.ro>",
+    "description":"",
+
+
+    "dependencies":{
+        "redis":">= 0.0.1",
+        "swarmutil":">=0.0.1",
+        "solr-client":">=0.0.1"
+    }
+
+}

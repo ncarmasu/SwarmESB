@@ -1,0 +1,10 @@
+{
+"cores":[
+        "coreX",
+        "coreY",
+        "testIndex"
+       ],
+ "defaultCore":"testIndex",
+ "host":"localhost",
+ "port":8983
+ }
